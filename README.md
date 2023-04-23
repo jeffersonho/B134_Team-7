@@ -45,11 +45,10 @@ Global warming is an issue that affects our planet in several ways:
 
 ## Content Flow
 The source code for this project is sectioned into five different files for ease of viewing the source code. For the best experience of this project, please view the files in the following order:
-1. Data Preparation
-2. Data Visualisation
-3. Data Resampling and Splitting
-4. ARIMA
-5. Prophet
+1. [Data Preparation](https://github.com/jeffersonho/B134_Team-7/blob/main/data_preparation.ipynb)
+2. [Data Visualisation](https://github.com/jeffersonho/B134_Team-7/blob/main/data_visualization.ipynb)
+3. [ARIMA](https://github.com/jeffersonho/B134_Team-7/blob/main/SARIMA_Time_Series_Prediction%20updated.ipynb)
+4. [Prophet](https://github.com/jeffersonho/B134_Team-7/blob/main/PROPHET_Time_Series_Prediction%20updated.ipynb)
 
 ## Conclusion
 * Both models show an accurate forecast/prediction of a country’s temperature as shown in the graphs plotted.
