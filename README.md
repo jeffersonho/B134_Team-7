@@ -12,8 +12,9 @@ The main greenhouse gases that are causing climate change include carbon dioxide
 ## About This Project
 This Mini-Project serves as the final graded piece of work for SC1015 (Introduction to Data Science and Artificial Intelligence). The aim of this project is to utilise supervised learning techniques to tackle a chosen problem.
 
-### Contributors
-
+## Contributors
+- @jeffersonho
+- @Tabatha-c
 
 ## Why Climate Change?
 * “In 2021, the global mean temperature was about 1.1°C above the pre-industrial level (from 1850 to 1900).The years from 2015 to 2021 were the seven warmest on record.” - United Nations 2022
