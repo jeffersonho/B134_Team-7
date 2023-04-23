@@ -56,7 +56,8 @@ The source code for this project is sectioned into five different files for ease
 -Hence the Prophet model is more accurate.
 
 * Checking on our predictors
--nitrous oxide, co2 including luc and methane have a positive relation to rising temperature. Hence these factors should be addressed and minimised as to slow down the rate of increasing temperature.
+
+-Nitrous oxide, co2 including luc and methane have a positive relation to rising temperature. Hence these factors should be addressed and minimised as to slow down the rate of increasing temperature.
 
 
 ## Insights Gained From This Project
@@ -74,13 +75,23 @@ The source code for this project is sectioned into five different files for ease
 
 
 ## References
-* https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv
+* Artley, B. (2022, April 27). Time Series Forecasting with Arima,Sarima and Sarimax. Towards Data Science. Retrieved from: 
+https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6
 
-* https://github.com/owid/co2-data
+* Cheong, J. (2019, May 13). Four ways to quantify synchrony between time series data. Towards Data Science. Retrieved from: https://towardsdatascience.com/four-ways-to-quantify-synchrony-between-time-series-data-b99136c4a9c9
 
-* https://www.un.org/sustainabledevelopment/climate-change/#:~:text=Facts%20and%20figures-,In%202021%2C%20the%20global%20mean%20temperature%20was%20about%201.1%C2%B0,of%20the%20next%20five%20years.
+* Choudhary, A. (2022, June 23). Time Series Forecasting with Facebook Prophet. Analytics Vidya. Retrieved from:
+https://www.analyticsvidhya.com/blog/2018/05/generate-accurate-forecasts-facebook-prophet-python-r/
 
-* https://towardsdatascience.com/time-series-forecasting-with-arima-sarima-and-sarimax-ee61099e78f6
+* Earth, B., Sissener, K. (2017). GlobalLandTemperaturesByCountry dataset. Kaggle. Retrieved from:
+https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv
+
+* Ng, J.P.L. (2022, February 19). Heatmap For Correlation Matrix & Confusion Matrix | Extra Tips On Machine Learning. Medium. Retrieved from: https://medium.com/mlearning-ai/heatmap-for-correlation-matrix-confusion-matrix-extra-tips-on-machine-learning-b0377cee31c2
+
+* Our World in Data. (2023, January). Co2 dataset. GitHub. Retrieved from: https://github.com/owid/co2-data
+
+* United Nations. (n.d.). United Nations Sustainable Development Goals Report 2022. Retrieved from:
+https://www.un.org/sustainabledevelopment/climate-change/#:~:text=Facts%20and%20figures-,In%202021%2C%20the%20global%20mean%20temperature%20was%20about%201.1%C2%B0,of%20the%20next%20five%20years.
 
 
-* https://www.analyticsvidhya.com/blog/2018/05/generate-accurate-forecasts-facebook-prophet-python-r/
+
