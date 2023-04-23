@@ -55,6 +55,8 @@ The source code for this project is sectioned into five different files for ease
 
 -Hence the Prophet model is more accurate.
 
+* Checking on our predictors
+-nitrous oxide, co2 including luc and methane have a positive relation to rising temperature. Hence these factors should be addressed and minimised as to slow down the rate of increasing temperature.
 
 
 ## Insights Gained From This Project
